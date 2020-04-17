@@ -1,0 +1,3 @@
+Some of the indetation was off, so the I corrected and it made the open and closeing make more sense. Also with the indentation, I moved moved the Head tag over a space so it couild stand out a little more. 
+I reduced the line space of the link in the in the head section. Don't know if this changes anything. Just looks cleaner. 
+There were also some div, Unordered list and list tags that did not have the clsoing tag. I closed those tags. 
